@@ -21,13 +21,13 @@ const Contact = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
 
-    emailjs
+  emailjs
       .sendForm(
-        "service_ec5y0ts", // Service ID from EmailJS
-        "template_7hksf65", // Template ID from EmailJS
+        "service_zzhwda4", // Service ID from EmailJS
+        "template_ee8zc1f", // Template ID from EmailJS
         form.current,
         {
-          publicKey: "Y-hkeCmmRiuid1AiS",
+          publicKey: "532b4AaypKsihOzhP",
         }
       )
       .then(
