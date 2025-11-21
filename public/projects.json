@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Property Deal Application",
+    "category": "fullStack",
+    "description": "A full-stack property buying and selling application built using Java, Spring MVC, JSP, Servlets, and MySQL.",
+    "site": "",
+    "github": "https://github.com/pranalikadukar/Basic_PropertyDeal_Application",
+    "image": "propertydeal.png",
+    "alt": "Property Deal Application - Real estate platform using Java and MySQL"
+  },
+
+  {
+    "name": "Quiz & Question Service",
+    "category": "backend",
+    "description": "A Spring Boot service managing quizzes, questions, categories, and scoring using REST APIs and SQL persistence.",
+    "site": "",
+    "github": "https://github.com/pranalikadukar/QuizQuestionService",
+    "image": "quiz.png",
+    "alt": "Quiz and Question management system"
+  },
+
+  {
+    "name": "Hut N Gut",
+    "category": "frontend",
+    "description": "A beautifully designed and responsive food delivery + restaurant website built using HTML, CSS, JavaScript, and React.",
+    "site": "",
+    "github": "https://github.com/pranalikadukar/gut",
+    "image": "gut.png",
+    "alt": "Gut - Responsive restaurant and food delivery website"
+  },
+
+  {
+    "name": "Product Management System",
+    "category": "fullStack",
+    "description": "Product Management crud operation using spring MVC",
+    "site": "",
+    "github": "https://github.com/pranalikadukar/Product-management-syste",
+    "image": "product.png",
+    "alt": "Product Management crud operation using spring MVC"
+  }
+]
