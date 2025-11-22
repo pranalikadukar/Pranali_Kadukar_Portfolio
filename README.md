@@ -3,7 +3,7 @@
 Welcome to my portfolio repository! This project showcases my work as a Full Stack Java Developer, including my backend, frontend, and full-stack projects, skills, achievements, and professional experience.
 
 ## 🖥️ Live Portfolio  
-👉 **[Pranali_Kadukar_Portfolio](https://6920cbffdf1150a2d71bcc81--pranalikadukarportfolio.netlify.app/)**  
+👉 **[Pranali_Kadukar_Portfolio](https://pranalikadukar.netlify.app/)
 
 
 
