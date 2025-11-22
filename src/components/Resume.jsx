@@ -28,7 +28,7 @@ const Resume = () => {
                 <li>Hibernate</li>
                 <li>MySQL, H2 Database</li>
                 <li>HTML, CSS, JavaScript</li>
-                <li>React (Basic)</li>
+                <li>React.js</li>
                 <li>Git, Postman, Docker (Basics)</li>
               </ul>
 
@@ -37,9 +37,9 @@ const Resume = () => {
                 Education
               </h3>
               <p className="font-medium">
-                B.E. – Information Technology
+                B.E. – Computer Technology
               </p>
-              <p>Priyadarshini Bhagwati College of Engineering</p>
+              <p>Priyadarshini College of Engineering</p>
               <p>Rashtrasant Tukdoji Maharaj Nagpur University</p>
               <p className="text-sm text-secondary">79.31%</p>
     
@@ -59,7 +59,7 @@ const Resume = () => {
               <ul className="list-disc pl-6 space-y-2">
 
                 <li>
-                  <span className="font-medium">ERP Inventory Management System</span> – 
+                  <span className="font-medium">CRM Inventory Management System</span> – 
                   Full-stack system built using Spring Boot & React. Automated workflows: quotation → sales → production → dispatch.
                 </li>
 
